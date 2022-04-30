@@ -11,7 +11,7 @@ Treinamentos e desafios de projetos Bootcamp Carrefour Web Developer (DIO)
 >
 > - 28/04/2022 16:05
 >
-> ![Tux, the Linux mascot](/Projetos/bootcamps/Bootcamp-Carrefour-Web-Developer/img/scrum.png)
+> ![certificado scrum](/Projetos/bootcamps/Bootcamp-Carrefour-Web-Developer/img/scrum.png)
 >
 
 
